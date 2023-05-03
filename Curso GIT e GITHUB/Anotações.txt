@@ -1,0 +1,30 @@
+Link de download do GIT: https://git-scm.com/downloads
+
+Alguns comandos do GIT:
+
+git clone:
+É usado sobretudo para apontar para um repositório existente e fazer um clone ou cópia deste repositório no novo diretório, em outro local.
+
+git add:
+Adiciona uma alteração no diretório ativo à área de staging. Ele diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit.
+
+git commit:
+Captura um instantâneo das mudanças preparadas do projeto no momento.
+
+git push:
+É usado para enviar o conteúdo do repositório local para um repositório remoto.
+
+git config:
+Uma maneira conveniente de definir opções de configuração para a instalação do Git.
+
+git init:
+Inicializa novo repositório do Git.
+
+git status:
+Exibe o estado do diretório de trabalho e o instantâneo preparado.
+
+Change Directory (cd):
+É usado para trocar de um diretório para outro, ou seja, serve para voce conseguir entrar em uma pasta, basta digitar cd NomeDaPasta ou cd Endereço da Pasta.
+
+ls:
+é usado para listar o conteúdo do diretório de trabalho atual.
